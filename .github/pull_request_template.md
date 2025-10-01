@@ -12,4 +12,3 @@ Brief description of changes.
 ## Screenshots (if UI changes)
 
 Add screenshots here.
-
